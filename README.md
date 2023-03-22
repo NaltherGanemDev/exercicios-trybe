@@ -7,8 +7,8 @@ Este repositório contém todas as atividades que eu, [Nalther Ganem](https://ww
 #### MÓDULO 1 - Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 ##### SEÇÃO 1 - Introdução - Unix & Shell
-    - [] Dia 1: Unix e Shell
-    - [] Dia 2: Git - O que é e para que serve
+    - [x] Dia 1: Unix e Shell
+    - [x] Dia 2: Git - O que é e para que serve
     - [] Dia 3: Git & GitHub - Entendendo os comandos
 
 ##### SEÇÃO 2 - Introdução à HTML & CSS
