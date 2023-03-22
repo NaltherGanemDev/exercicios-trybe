@@ -1,6 +1,6 @@
 # TRYBE
 
-Este repositório contém todas as atividades que eu, (Nalther Ganem, https://www.linkedin.com/in/naltherganem/), estou desenvolvendo ao longo do curso da TRYBE. 
+Este repositório contém todas as atividades que eu, [Nalther Ganem](https://www.linkedin.com/in/naltherganem/), estou desenvolvendo ao longo do curso da TRYBE. 
 
 ## _"A jornada é intensa, mas nunca solitária."_
 
