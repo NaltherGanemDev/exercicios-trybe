@@ -155,5 +155,83 @@
 //         console.log('informação incorreta');
 // }
 
+// exercicios do dia
+
+// exe 1
+
+let a = 5;
+let b = 10;
+
+let soma = a + b;
+console.log(soma);
+
+let sub = a - b;
+console.log(sub);
+
+let mult = a * b;
+console.log(mult);
+
+let div = a / b;
+console.log(div);
+
+let mod = a % b;
+console.log(mod);
 
 
+
+// exe 2
+
+let a = 12;
+let b = 13;
+
+if(a > b) {
+    console.log(a);
+} else {
+    console.log(b);
+}
+
+
+
+// exe 3
+
+let a = 10;
+let b = 90;
+let c = 805;
+
+if(a > b && a > c) {
+    console.log(a);
+} else if(b > a && b > c) {
+    console.log(b);
+}else {
+    console.log(c);
+}
+
+
+
+// exe 4
+
+let a = 0;
+
+if(a > 0) {
+    console.log('positivo');
+} else if(a < 0) {
+    console.log('negativo');
+} else {
+    console.log('zero');
+}
+
+
+
+// exe 5
+
+let a = 60;
+let b = 60;
+let c = 60;
+
+if(a < 0 || b < 0 || c < 0) {
+    console.log('Erro: Numero inválido');
+} else if(a + b + c === 180) {
+    console.log('true');
+} else if(a + b + c != 180) {
+    console.log('false');
+}
